@@ -25,4 +25,4 @@ lizaxxxxxxxxxxxxx@gmail.com
 Знание языков
 Белорусский — Родной
 Навыки
-HTML    Работа с базами данных    SQL    PHP    MySQL    Linux    СУБД    Настройка ПК    Настройка ПО
+HTML  JAVA   Работа с базами данных    SQL    PHP    MySQL    Linux    СУБД    Настройка ПК    Настройка ПО
